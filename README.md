@@ -1,5 +1,15 @@
 # TrickFit
+Trickfit es un proyecto realizado para el curso Arquitectura de Aplicaciones Web - SI605, y como equipo buscamos desplegar un aplicativo web del startup TrickFit.
 
+## Team Members
+
+- Gilma Jhojanny Baca Pompa		        U202019160
+- Mikjael Jeandet Moreano Concha 	    U202014924
+- Maria Fernanda Guerra Pajares	        U202017378
+- Fernando Kulibay Garay Hinojosa	    U20171A075
+- Santiago Sebastian Heredia Orejuela	U202014911
+
+## Description code
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
