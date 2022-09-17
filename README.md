@@ -1,5 +1,5 @@
 # TrickFit
-Trickfit es un proyecto realizado para el curso Arquitectura de Aplicaciones Web - SI605, y como equipo buscamos desplegar un aplicativo web del startup TrickFit.
+TrickFit es un proyecto realizado para el curso Arquitectura de Aplicaciones Web - SI605, y como equipo buscamos desplegar un aplicativo web del startup TrickFit. 
 
 ## Team Members
 
