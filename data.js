@@ -586,7 +586,22 @@ module.exports = function () {
                 fecha: "31/09/2022",
                 idtarjeta: 12,
             },
+        ],
+        tipousuario:[
+            {
+                id: 1,
+                nombreTipo:"Alumno"
+            },
+            {
+                id: 2,
+                nombreTipo:"Entrenador"
+            },
+            {
+                id: 3,
+                nombreTipo:"Nutriologo"
+            }
         ]
+
     }
     return data
 }
