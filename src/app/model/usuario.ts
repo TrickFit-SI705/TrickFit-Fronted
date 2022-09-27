@@ -1,5 +1,5 @@
 export class Usuario {
-  idUsuario: number = 0;
+  id: number = 0;
   nameUsuario: string = "";
   emailUsuario: string = "";
   pesoUsuario: number = 0;

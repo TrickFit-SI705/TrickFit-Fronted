@@ -14,6 +14,8 @@ export const environment = {
   host7: "http://localhost:5000/bancos",
   host8: "http://localhost:5000/citas",
   host9: "http://localhost:5000/suscripcion",
+  host10: "http://localhost:5000/tipousuario",
+
 };
 
 /*

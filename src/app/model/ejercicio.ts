@@ -1,5 +1,5 @@
 export class Ejercicio {
-  idEjercicio: number = 0;
+  id: number = 0;
   tituloEjercicio: string = '';
   descripEjercicio: string = ''; 
 }
