@@ -44,140 +44,140 @@ module.exports = function () {
         ],
         usuarios: [
             {
-                idUsuario: 1,
+                id: 1,
                 nameUsuario: "Damian Robinson",
                 emailUsuario: "damianrobinson@gmail.com",
                 pesoUsuario: 80,
                 estaturaUsuario: 170
             },
             {
-                idUsuario: 2,
+                id: 2,
                 nameUsuario: "Dorian Velasquez",
                 emailUsuario: "dorianvelasquez@hotmail.com",
                 pesoUsuario: 68,
                 estaturaUsuario: 180
             },
             {
-                idUsuario: 3,
+                id: 3,
                 nameUsuario: "Kristen Yang",
                 emailUsuario: "kristenyang@outlook.com",
                 pesoUsuario: 65,
                 estaturaUsuario: 179
             },
             {
-                idUsuario: 4,
+                id: 4,
                 nameUsuario: "Troy Waters",
                 emailUsuario: "troywaters4062@gmail.com",
                 pesoUsuario: 69,
                 estaturaUsuario: 180
             },
             {
-                idUsuario: 5,
+                id: 5,
                 nameUsuario: "Hilda Nicholson",
                 emailUsuario: "hildanicholson@hotmail.com",
                 pesoUsuario: 77,
                 estaturaUsuario: 169
             },
             {
-                idUsuario: 6,
+                id: 6,
                 nameUsuario: "Kamal Sears",
                 emailUsuario: "kamalsears6807@outlook.com",
                 pesoUsuario: 67,
                 estaturaUsuario: 174
             },
             {
-                idUsuario: 7,
+                id: 7,
                 nameUsuario: "Stuart Riley",
                 emailUsuario: "stuartriley@hotmail.com",
                 pesoUsuario: 82,
                 estaturaUsuario: 174
             },
             {
-                idUsuario: 8,
+                id: 8,
                 nameUsuario: "Orli Parsons",
                 emailUsuario: "orliparsons@gmail.com",
                 pesoUsuario: 81,
                 estaturaUsuario: 181
             },
             {
-                idUsuario: 9,
+                id: 9,
                 nameUsuario: "Indira Michael",
                 emailUsuario: "indiramichael@outlook.com",
                 pesoUsuario: 70,
                 estaturaUsuario: 175
             },
             {
-                idUsuario: 10,
+                id: 10,
                 nameUsuario: "Holmes Haynes",
                 emailUsuario: "holmeshaynes9833@gmail.com",
                 pesoUsuario: 82,
                 estaturaUsuario: 184
             },
             {
-                idUsuario: 11,
+                id: 11,
                 nameUsuario: "Otto Fleming",
                 emailUsuario: "ottofleming@gmail.com",
                 pesoUsuario: 70,
                 estaturaUsuario: 178
             },
             {
-                idUsuario: 12,
+                id: 12,
                 nameUsuario: "Nolan Farrell",
                 emailUsuario: "nolanfarrell@outlook.com",
                 pesoUsuario: 78,
                 estaturaUsuario: 177
             },
             {
-                idUsuario: 13,
+                id: 13,
                 nameUsuario: "Lamar Shaffer",
                 emailUsuario: "lamarshaffer@gmail.com",
                 pesoUsuario: 78,
                 estaturaUsuario: 172
             },
             {
-                idUsuario: 14,
+                id: 14,
                 nameUsuario: "Charlotte Rosales",
                 emailUsuario: "charlotterosales@hotmail.com",
                 pesoUsuario: 73,
                 estaturaUsuario: 172
             },
             {
-                idUsuario: 15,
+                id: 15,
                 nameUsuario: "Veda Woodard",
                 emailUsuario: "vedawoodard@gmail.com",
                 pesoUsuario: 66,
                 estaturaUsuario: 184
             },
             {
-                idUsuario: 16,
+                id: 16,
                 nameUsuario: "Evan Marsh",
                 emailUsuario: "evanmarsh5450@hotmail.com",
                 pesoUsuario: 65,
                 estaturaUsuario: 185
             },
             {
-                idUsuario: 17,
+                id: 17,
                 nameUsuario: "Scott Griffith",
                 emailUsuario: "scottgriffith@hotmail.com",
                 pesoUsuario: 83,
                 estaturaUsuario: 173
             },
             {
-                idUsuario: 18,
+                id: 18,
                 nameUsuario: "Summer Harrington",
                 emailUsuario: "summerharrington4601@hotmail.com",
                 pesoUsuario: 74,
                 estaturaUsuario: 162
             },
             {
-                idUsuario: 19,
+                id: 19,
                 nameUsuario: "Hu Rhodes",
                 emailUsuario: "hurhodes4227@outlook.com",
                 pesoUsuario: 79,
                 estaturaUsuario: 185
             },
             {
-                idUsuario: 20,
+                id: 20,
                 nameUsuario: "Leah Britt",
                 emailUsuario: "leahbritt@outlook.com",
                 pesoUsuario: 80,
@@ -208,28 +208,28 @@ module.exports = function () {
         ],
         planes: [
             {
-                idPlan: 1,
+                id: 1,
                 namePlan: "Plan nutricional",
                 detallesPlan: "Consulta con nutricionista y recomendaciones de comida",
                 tiempoPlan: "1 mes",
                 precioPlan: 19.90
             },
             {
-                idPlan: 2,
+                id: 2,
                 namePlan: "Plan nutricional",
                 detallesPlan: "Consulta con nutricionista y recomendaciones de comida",
                 tiempoPlan: "3 mes",
                 precioPlan: 49.90
             },
             {
-                idPlan: 3,
+                id: 3,
                 namePlan: "Plan rutinal",
                 detallesPlan: "Consulta con entrenador y creación de rutinas con objetivos",
                 tiempoPlan: "3 mes",
                 precioPlan: 54.90
             },
             {
-                idPlan: 4,
+                id: 4,
                 namePlan: "Plan R&N",
                 detallesPlan: "privilegios del plan nutricional y plan de rutinas",
                 tiempoPlan: "3 mes",
@@ -238,94 +238,97 @@ module.exports = function () {
         ],
         recetas: [
             {
-                idReceta: 1,
+                id: 1,
                 tituloReceta: "Receta de pie de manzana en bajo azucar",
                 descripReceta: "Lis ingredientes de la receta son..."
             },
             {
-            idReceta: 2,
+            id: 2,
             tituloReceta: "Pimientos rellenos de quinoa",
             descripReceta: "Los ingredientes de la receta son..."
             },
             {
-            idReceta: 3,
+            id: 3,
             tituloReceta: "Salmón a la plancha",
             descripReceta: "Los ingredientes de la receta son..."
             },
             {
-            idReceta: 4,
+            id: 4,
             tituloReceta: "Pollo a la plancha",
             descripReceta: "Los ingredientes de la receta son..."
             },
             {
-            idReceta: 5,
+            id: 5,
             tituloReceta: "Gambones a la plancha",
             descripReceta: "Los ingredientes de la receta son..."
             },
             {
-            idReceta: 6,
+            id: 6,
             tituloReceta: "Ternera a la plancha con ensalada",
             descripReceta: "Los ingredientes de la receta son..."
             },
             {
-            idReceta: 7,
+            id: 7,
             tituloReceta: "Tortilla francesa",
             descripReceta: "Los ingredientes de la receta son..."
             },
             {
-            idReceta: 8,
+            id: 8,
             tituloReceta: "Huevos a la plancha",
             descripReceta: "Los ingredientes de la receta son..."
             }
         ],
         ejercicios: [
             {
-                idEjercicio: 1,
+                id: 1,
                 tituloEjercicio: "Salto de tijera",
                 descripEjercicio: "Comienza con los pies juntos y los brazos a los lados..."
             },
             {
-                idEjercicio: 2,
+                id: 2,
                 tituloEjercicio: "Curl con mancuernas",
                 descripEjercicio: "Comienza con los brazos estirados..."
             },
             {
-                idEjercicio: 3,
+                id: 3,
                 tituloEjercicio: "Abdominal bicicleta",
                 descripEjercicio: "Comienza echado en el piso..."
             },
             {
-                idEjercicio: 4,
+                id: 4,
                 tituloEjercicio: "Abdominal en V",
                 descripEjercicio: "Comienza echado en el piso..."
             },
             {
-                idEjercicio: 5,
+                id: 5,
                 tituloEjercicio: "Sentadillas",
                 descripEjercicio: "Comienza con las piernas..."
             },
             {
-                idEjercicio: 6,
+                id: 6,
                 tituloEjercicio: "Peso muerto",
                 descripEjercicio: "Comienza con la posicion..."
             },
             {
-                idEjercicio: 7,
+                id
+: 7,
                 tituloEjercicio: "Sentadilla bulgara",
                 descripEjercicio: "Comienza con las piernas separadas..."
             },
             {
-                idEjercicio: 8,
+                id
+: 8,
                 tituloEjercicio: "Press de banca",
                 descripEjercicio: "Comienza agarrando al barra con los brazos hacia arriba ..."
             },
             {
-                idEjercicio: 9,
+                id
+: 9,
                 tituloEjercicio: "Remo",
                 descripEjercicio: "Comienza con los brazos al frente..."
             },
             {
-                idEjercicio: 10,
+                id: 10,
                 tituloEjercicio: "Elevaciones laterales",
                 descripEjercicio: "Comienza con los brazos hacia arriba..."
             }
@@ -334,82 +337,82 @@ module.exports = function () {
         registroalimenticio: [
             {
                 usuario:{
-                    idUsuario: 1,
+                    id: 1,
                 },
                 alimento:{
-                    idAlimento: "AL001",
+                    id: "AL001",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 1,
+                    id: 1,
                 },
                 alimento:{
-                    idAlimento: "AL003",
+                    id: "AL003",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 3,
+                    id: 3,
                 },
                 alimento:{
-                    idAlimento: "AL001",
+                    id: "AL001",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 2,
+                    id: 2,
                 },
                 alimento:{
-                    idAlimento: "AL002",
+                    id: "AL002",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 2,
+                    id: 2,
                 },
                 alimento:{
-                    idAlimento: "AL003",
+                    id: "AL003",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 3,
+                    id: 3,
                 },
                 alimento:{
-                    idAlimento: "AL004",
+                    id: "AL004",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 1,
+                    id: 1,
                 },
                 alimento:{
-                    idAlimento: "AL005",
+                    id: "AL005",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 3,
+                    id: 3,
                 },
                 alimento:{
-                    idAlimento: "AL004",
+                    id: "AL004",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 2,
+                    id: 2,
                 },
                 alimento:{
-                    idAlimento: "AL003",
+                    id: "AL003",
                 }
             },
             {
                 usuario:{
-                    idUsuario: 1,
+                    id: 1,
                 },
                 alimento:{
-                    idAlimento: "AL004",
+                    id: "AL004",
                 }
             }
         ],
@@ -451,7 +454,7 @@ module.exports = function () {
             {
                 id: 1,
                 usuario: {
-                    idUsuario: 1
+                    id: 1
                 },
                 fecha: "13/09/2022",
                 hora: "15:00 pm"
@@ -459,7 +462,7 @@ module.exports = function () {
             {
                 id: 2,
                 usuario: {
-                    idUsuario: 2
+                    id: 2
                 },
                 fecha: "13/09/2022",
                 hora: "16:00 pm"
@@ -467,7 +470,7 @@ module.exports = function () {
             {
                 id: 3,
                 usuario: {
-                    idUsuario: 1
+                    id: 1
                 },
                 fecha: "12/06/2022",
                 hora: "10:00 pm"
@@ -475,7 +478,7 @@ module.exports = function () {
             {
                 id: 4,
                 usuario: {
-                    idUsuario: 2
+                    id: 2
                 },
                 fecha: "07/05/2022",
                 hora: "14:00 pm"
@@ -483,7 +486,7 @@ module.exports = function () {
             {
                 id: 5,
                 usuario: {
-                    idUsuario: 1
+                    id: 1
                 },
                 fecha: "10/10/2022",
                 hora: "13:00 pm"
@@ -491,7 +494,7 @@ module.exports = function () {
             {
                 id: 6,
                 usuario: {
-                    idUsuario: 2
+                    id: 2
                 },
                 fecha: "03/05/2022",
                 hora: "12:00 pm"
@@ -499,7 +502,7 @@ module.exports = function () {
             {
                 id: 7,
                 usuario: {
-                    idUsuario: 1
+                    id: 1
                 },
                 fecha: "14/10/2021",
                 hora: "11:00 am"
@@ -507,7 +510,7 @@ module.exports = function () {
             {
                 id: 8,
                 usuario: {
-                    idUsuario: 2
+                    id: 2
                 },
                 fecha: "10/10/2022",
                 hora: "09:00 am"

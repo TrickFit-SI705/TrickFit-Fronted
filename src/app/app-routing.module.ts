@@ -12,7 +12,6 @@ import { PlanComponent } from './page/plan/plan.component';
 import { PreguntaComponent } from './page/pregunta/pregunta.component';
 import { RecetaCreaeditaComponent } from './page/receta/receta-creaedita/receta-creaedita.component';
 import { RecetaComponent } from './page/receta/receta.component';
-import { RegistroalimenticioComponent } from './page/registroalimenticio/registroalimenticio.component';
 import { SuscripcionComponent } from './page/suscripcion/suscripcion.component';
 import { UsuarioComponent } from './page/usuario/usuario.component';
 import { TipousuarioCreaeditaComponent } from './page/tipousuario/tipousuario-creaedita/tipousuario-creaedita.component';
@@ -83,7 +82,7 @@ const routes: Routes = [
     path: 'suscripcion',
     component: SuscripcionComponent,
   },
-  ,
+  
   {
     path: 'tipousuario',
     component: TipousuarioComponent,

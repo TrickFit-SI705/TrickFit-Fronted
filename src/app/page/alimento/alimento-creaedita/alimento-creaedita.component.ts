@@ -23,7 +23,7 @@ export class AlimentoCreaeditaComponent implements OnInit {
     });
   }
   aceptar(): void {
-    if (this.alimento.nameAlimento.length > 0 && this.alimento.cal > 0) {
+    if (this.alimento.nameAlimento.length > 0 && this.alimento.kcal > 0) {
       if (this.edicion) {
         this.alimentoService.modificar(this.alimento).subscribe(data => {
           this.alimentoService.listar().subscribe(data => {

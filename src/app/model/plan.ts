@@ -1,5 +1,5 @@
 export class Plan {
-  idPlan: number = 0;
+  id: number = 0;
   namePlan: string = '';
   detallesPlan: string = '';
   tiempoPlan: string = '';

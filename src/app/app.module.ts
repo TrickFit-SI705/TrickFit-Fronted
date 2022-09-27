@@ -1,3 +1,5 @@
+import { RecetaBuscarComponent } from './page/receta/receta-buscar/receta-buscar.component';
+import { AlimentoBuscarComponent } from './page/alimento/alimento-buscar/alimento-buscar.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -26,17 +28,17 @@ import { CitaComponent } from './page/cita/cita.component';
 import { CitaListarComponent } from './page/cita/cita-listar/cita-listar.component';
 import { SuscripcionComponent } from './page/suscripcion/suscripcion.component';
 import { SuscripcionListarComponent } from './page/suscripcion/suscripcion-listar/suscripcion-listar.component';
-<<<<<<< HEAD
+
 import { TipousuarioComponent } from './page/tipousuario/tipousuario.component';
 import { TipousuarioListarComponent } from './page/tipousuario/tipousuario-listar/tipousuario-listar.component';
 import { TipousuarioDialogoComponent } from './page/tipousuario/tipousuario-listar/tipousuario-dialogo/tipousuario-dialogo.component';
 import { TipousuarioBuscarComponent } from './page/tipousuario/tipousuario-buscar/tipousuario-buscar.component';
 import { TipousuarioCreaeditaComponent } from './page/tipousuario/tipousuario-creaedita/tipousuario-creaedita.component';
-=======
+
 import { AlimentoCreaeditaComponent } from './page/alimento/alimento-creaedita/alimento-creaedita.component';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
-import{MatIconModule} from'@angular/material/icon';
+import { MatIconModule} from'@angular/material/icon';
 import { FormsModule } from '@angular/forms';
 import { PlanCreaeditaComponent } from './page/plan/plan-creaedita/plan-creaedita.component';
 import { RecetaCreaeditaComponent } from './page/receta/receta-creaedita/receta-creaedita.component';
@@ -47,7 +49,6 @@ import { BancoDialogoComponent } from './page/banco/banco-listar/banco-dialogo/b
 import { PlanDialogoComponent } from './page/plan/plan-listar/plan-dialogo/plan-dialogo.component';
 import { BancoBuscarComponent } from './page/banco/banco-buscar/banco-buscar.component';
 import { PlanBuscarComponent } from './page/plan/plan-buscar/plan-buscar.component';
->>>>>>> feature/santiago
 
 @NgModule({
   declarations: [
@@ -72,13 +73,13 @@ import { PlanBuscarComponent } from './page/plan/plan-buscar/plan-buscar.compone
     CitaListarComponent,
     SuscripcionComponent,
     SuscripcionListarComponent,
-<<<<<<< HEAD
+
     TipousuarioComponent,
     TipousuarioListarComponent,
     TipousuarioDialogoComponent,
     TipousuarioBuscarComponent,
     TipousuarioCreaeditaComponent,
-=======
+
     AlimentoCreaeditaComponent,
     PlanCreaeditaComponent,
     RecetaCreaeditaComponent,
@@ -87,8 +88,9 @@ import { PlanBuscarComponent } from './page/plan/plan-buscar/plan-buscar.compone
     BancoDialogoComponent,
     PlanDialogoComponent,
     BancoBuscarComponent,
-    PlanBuscarComponent
->>>>>>> feature/santiago
+    PlanBuscarComponent,
+    AlimentoBuscarComponent,
+    RecetaBuscarComponent
   ],
   imports: [
     BrowserModule,
