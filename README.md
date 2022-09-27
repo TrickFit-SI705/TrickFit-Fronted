@@ -9,6 +9,7 @@ TrickFit es un proyecto realizado para el curso Arquitectura de Aplicaciones Web
 - Fernando Kulibay Garay Hinojosa	    U20171A075
 - Santiago Sebastian Heredia Orejuela	U202014911
 
+
 ## Description code
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
