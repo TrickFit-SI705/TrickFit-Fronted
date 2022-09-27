@@ -10,6 +10,8 @@ import { RecetaComponent } from './page/receta/receta.component';
 import { RegistroalimenticioComponent } from './page/registroalimenticio/registroalimenticio.component';
 import { SuscripcionComponent } from './page/suscripcion/suscripcion.component';
 import { UsuarioComponent } from './page/usuario/usuario.component';
+import { TipousuarioCreaeditaComponent } from './page/tipousuario/tipousuario-creaedita/tipousuario-creaedita.component';
+import { TipousuarioComponent } from './page/tipousuario/tipousuario.component';
 
 const routes: Routes = [
   {
@@ -47,6 +49,16 @@ const routes: Routes = [
   {
     path: 'suscripcion',
     component: SuscripcionComponent
+  },
+  ,
+  {
+    path: 'tipousuario',
+    component: TipousuarioComponent,
+   children: [{ path: 'edicion/:id', component: TipousuarioCreaeditaComponent }],
+  },
+  {
+    path: 'tipousuario-creaedita',
+    component: TipousuarioCreaeditaComponent,
   },
 ];
 

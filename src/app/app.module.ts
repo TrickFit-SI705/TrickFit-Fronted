@@ -26,6 +26,11 @@ import { CitaComponent } from './page/cita/cita.component';
 import { CitaListarComponent } from './page/cita/cita-listar/cita-listar.component';
 import { SuscripcionComponent } from './page/suscripcion/suscripcion.component';
 import { SuscripcionListarComponent } from './page/suscripcion/suscripcion-listar/suscripcion-listar.component';
+import { TipousuarioComponent } from './page/tipousuario/tipousuario.component';
+import { TipousuarioListarComponent } from './page/tipousuario/tipousuario-listar/tipousuario-listar.component';
+import { TipousuarioDialogoComponent } from './page/tipousuario/tipousuario-listar/tipousuario-dialogo/tipousuario-dialogo.component';
+import { TipousuarioBuscarComponent } from './page/tipousuario/tipousuario-buscar/tipousuario-buscar.component';
+import { TipousuarioCreaeditaComponent } from './page/tipousuario/tipousuario-creaedita/tipousuario-creaedita.component';
 
 @NgModule({
   declarations: [
@@ -49,7 +54,12 @@ import { SuscripcionListarComponent } from './page/suscripcion/suscripcion-lista
     CitaComponent,
     CitaListarComponent,
     SuscripcionComponent,
-    SuscripcionListarComponent
+    SuscripcionListarComponent,
+    TipousuarioComponent,
+    TipousuarioListarComponent,
+    TipousuarioDialogoComponent,
+    TipousuarioBuscarComponent,
+    TipousuarioCreaeditaComponent,
   ],
   imports: [
     BrowserModule,
