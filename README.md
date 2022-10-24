@@ -1,5 +1,5 @@
-# TrickFit
-TrickFit es un proyecto realizado para el curso Arquitectura de Aplicaciones Web - SI605, y como equipo buscamos desplegar un aplicativo web del startup TrickFit. 
+# TrickFit Fronted
+TrickFit es un proyecto realizado para el curso Arquitectura de Aplicaciones Web - SI605, y como equipo buscamos desplegar un aplicativo web del startup TrickFit. En este repositorio se encuentra unicamente el fronted del proyecto mencionado. 
 
 ## Team Members
 
